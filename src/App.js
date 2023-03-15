@@ -124,7 +124,7 @@ const App = () => {
           />
           <a href="">Back To Login</a>
           <button type="Reset Passwird" class="btn">
-            Reset Passwird
+            Reset Password
           </button>
         </div>
       </div>
