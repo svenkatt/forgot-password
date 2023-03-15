@@ -103,7 +103,7 @@ const App = () => {
           />
           <a href="">Back To Login</a>
           <button type="Resend password" class="btn">
-            Reset Passwird
+            Reset Password
           </button>
         </div>
         <div class="last">
